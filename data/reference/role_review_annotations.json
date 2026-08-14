@@ -1,0 +1,44 @@
+{
+  "sample_sha256": "0e6bda6a5b63bd53dec2fddab8721ad9ec8b5cad26d24df9a9fa52b351f7806e",
+  "review_policy": "Every sampled title was reviewed with its example company and skills. Explicit single-role practitioner titles are accepted; hybrid titles and managerial, trainer, architect, product, sales, or vague titles are excluded; credible alternative labels are recorded as corrections.",
+  "reviewed_ids": [
+    "a4877281796e402a", "e745f5fcdfd9ae48", "5e6549a7829b6fa6", "f7a8e2c4438f082b", "3a437b6f398e4b3e", "532e240d80785c4c", "29e5fc8332b50771", "77af05456e0cbe45", "56fe34ebf2816a22", "d4eac3f7ec597ac2", "0c3f188ef1451155", "3217dadfc0610d3c", "1a1585feed74af9d", "61fcb38c0ed30ef3", "69fd268a1d8ad6f8", "346680dd3a068219", "7f2d558f018981c2", "ea411e1ccd8e04da", "61ada8a70a111515", "5fbb8c74d62255b9", "482aaf52bef4bd63", "1c410bc5c8a19b10", "a55bf1424c12a372", "4607c3712003877a", "d6efde567eeecbaf", "af629d43566ae64f", "532ad6370c86910d", "96391c4e2e72b59e", "0cd5d66d4f3e4e11", "4af141620c24a4ce",
+    "f7e50d5f8f5752ca", "ab4ae49a06132d53", "2b6b82f0315cc1cf", "91ee13aad3ac0b13", "b287afb41f740642", "b4dfb42af6731d22", "f3090727b020bb3c", "7e7979a8cac6bf95", "4d9374dcbb57dd76", "8c97b935d97e857c", "6746e14df729309e", "e4aa471aea15c025", "ec6e2fdfdb19da44", "00ff33f21d9dd693", "d05985099fb5bb69", "8cc6ded10da0c428", "99f2ba7014272484", "91968260d4671071", "cf11b6563cad0b29", "33cf9b9f9b3d18e1", "1ffda1a8db57b7f1", "31876c2c14ac75bf", "9f176ce9c7263213", "7b482d81569dab9c", "9aeb18ad9d101132", "7337b5ac84df6710", "7746f51af643fb47", "496c26a532e8c217", "6d759766c649d9c9", "07f6465086bc8ade",
+    "3853697c6e152749", "b974b0cdf1dd7c39", "1e91320c75f1a9ca", "e80a7253a9020b89", "7cd281200bdccb79", "d4349e329a485ae0", "504aa01ecd2e47a2", "a5a563dc0c9c0117", "e7f9ed2cdebeca46", "87d824c3aef51f91", "0cadc546fae6247b", "c85cb6d85e9f362c", "bc191e8f404b1bb9", "93e0e4a7446fdc6c", "c3d64cfe30ef651d", "5a8a068d423529ca", "132378991fe6155e", "4021c662904a6540", "4cfcef9fb6a221bf", "7b2e91129e425228", "c86803bcd21e7d7b", "014d4d16f05986ac", "ea8f6733aad37ac5", "d1cb67f30a7f379a", "2c404bcc2a0b7d7b", "0b6f1c14a02330e2", "dcfd03066c5f42f5", "e5d172f86117e591", "8500001b00f37647", "45a24049061e1bf9",
+    "03941ebb67ed2b00", "5075741c3e3a6e08", "69e359497ace040f", "6721885a882e6135", "00a3d14e95d9558a", "1833843957396b21", "49e215140ced54c8", "121247f7c253ade7", "894dff7ca4765095", "351b54358337706f", "ed2934dcf9571916", "dc5c56fc416ec98c", "91ed0f58a774fcb8", "f7a45b4bda7d490c", "ea6d1bb900ad73a4", "a49990ffdc6fc31c", "7578d35860c70d26", "f0d636bfee44d3e1", "f43fff0f0268dd61", "4d97d07bd5cd73ea", "7577749f86117c8b", "86bc1a6556145fe0", "936d85c50665f0d0", "1d4235634b325456", "bb2301ea2ff6735d", "b921c995589180ea", "ee64380d3e894976", "2fb90683b7fb9c49", "d0a3b9c90e9605c7", "46309e99135945a5",
+    "9a2b3690cdd3529d", "9953dd6562a8a963", "4886f066aaf1de9d", "f887e24722e7fa56", "efcc911576b1e74e", "18473b566721915d", "a9e40f9a29b80f86",
+    "556c0390dd929e09", "9c7a2164e566f0a1", "514da391444e567f", "ee3292376d99d7ea", "baae0244d940308d", "ede88d65d2c17009", "7ed8110ca555b943", "47168820d6d4641c", "2e859fde80702b51", "49e57bb41ea70c3e", "d2e26d6ed4bc23f2", "78f36cba38bbbb6e", "55f59c5e190ebbdd", "4a31c1e2af5ccec8", "b5bf821d999eb3b3", "e5a5871fcd2e8351", "27e9a61da9b4fc9e", "74d7bd40bad44ae3", "a7b23a4f661b81be", "6cfbf67dabe560ae", "63e748d22faaf27d", "0811cbef4336a493", "1595a276b2c1c9e5", "9d6114f76296ef33", "e224529e1a193b01", "82a3995aff60a527", "15bc4f626fc8a94e", "c154243a212ce8de", "aa17edd008cd8176", "3a75cb99d6f8a08c"
+  ],
+  "overrides": {
+    "6746e14df729309e": {
+      "decision": "correct",
+      "reviewed_role": "ML / AI Engineer",
+      "review_notes": "Hybrid wording, but engineer suffix and computer-vision skills align more closely with ML / AI Engineer."
+    },
+    "49e57bb41ea70c3e": {
+      "decision": "correct",
+      "reviewed_role": "Data Engineer",
+      "review_notes": "Data Cloud Developer with data modeling, integrity, and integration skills fits the engineering family."
+    },
+    "6cfbf67dabe560ae": {
+      "decision": "correct",
+      "reviewed_role": "Data Analyst / BI",
+      "review_notes": "Explicit BI, Power BI, Tableau, and data-visualization practitioner title."
+    },
+    "c154243a212ce8de": {
+      "decision": "correct",
+      "reviewed_role": "ML / AI Engineer",
+      "review_notes": "Machine-learning practitioner posting supported by Python, deep-learning, and AI skills."
+    },
+    "aa17edd008cd8176": {
+      "decision": "correct",
+      "reviewed_role": "ML / AI Engineer",
+      "review_notes": "Senior AI/ML practitioner title supported by machine-learning and data-science skills."
+    },
+    "3a75cb99d6f8a08c": {
+      "decision": "correct",
+      "reviewed_role": "Data Analyst / BI",
+      "review_notes": "BI reporting developer supported by Power BI and business-object reporting skills."
+    }
+  }
+}

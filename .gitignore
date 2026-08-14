@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Notebooks and editors
+.ipynb_checkpoints/
+.DS_Store
+.idea/
+.vscode/
+
+# Local secrets
+.env
+.streamlit/secrets.toml
+
+# Local project working records (not published)
+AGENTS.md
+HANDOVER.md
+architecture.md
+bug-and-feature.md
+decisions.md
+flow.md
+concepts.md
+
+# Raw and generated data
+data/raw/*
+!data/raw/README.md
+data/processed/*
+!data/processed/README.md
+
+# Generated models and reports
+models/*.joblib
+reports/generated/
